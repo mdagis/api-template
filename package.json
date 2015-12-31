@@ -1,0 +1,27 @@
+{
+  "name": "api-template",
+  "description": "api-template. use it as a base to create an api",
+  "version": "0.0.1",
+  "main": "./api-template.js",
+  "author": {
+    "name": "Agis Kefalinos",
+    "email": "mdagis@gmail.com"
+  },
+  "keywords": [],
+  "licenses": {
+    "type": "mit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mdagis/api-template.git"
+  },
+  "bugs": {
+    "url": "http://github.com/mdagis/api-template/issues"
+  },
+  "dependencies": {
+    "bunyan": "^1.5.1",
+    "ddos": "^0.1.9",
+    "express": "^4.13.3",
+    "toobusy-js": "^0.4.2"
+  }
+}
